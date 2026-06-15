@@ -55,7 +55,3 @@ More on [shivdeepak.com](https://shivdeepak.com/).
 [![Website](https://img.shields.io/badge/Website-shivdeepak.com-000000?logo=safari&logoColor=white)](https://shivdeepak.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivdeepak/)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/shivdeepakm)
-
-## 📊 GitHub Stats
-
-![Shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivdeepak&show_icons=true)
