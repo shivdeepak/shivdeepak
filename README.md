@@ -4,8 +4,8 @@
 
 I'm a Staff Software Engineer at **[You.com](https://you.com/home)**, working on AI search infrastructure. Over the past
 15+ years I've shipped zero-to-one products at startups — including as **employee #1 at
-[HackerRank](https://hackerrank.com/)** — and I've been an open-source contributor since my **Google Summer of Code
-2011** project with the **[Sahana Software Foundation](https://sahanafoundation.org/)**.
+[HackerRank](https://hackerrank.com/)** and a two-time founder. I've also been an open-source contributor since my
+**Google Summer of Code 2011** project with the **[Sahana Software Foundation](https://sahanafoundation.org/)**.
 
 ```text
 AI Search · Agent Skills · MCP Tooling · LLM Knowledge Bases · Developer Tooling
