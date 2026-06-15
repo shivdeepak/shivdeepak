@@ -8,7 +8,7 @@ Software engineer with 15+ years shipping zero-to-one products at startups — *
 people to create technology with joy and wonder.
 
 ```text
-HR-tech · Competitive Programming · AI Search · Sales Tech · Smart Home IoT · 3D Printing
+AI Search · Agent Skills · MCP Tooling · LLM Knowledge Bases · Developer Tooling · Web Crawling
 ```
 
 ## 🔭 What I'm into right now
@@ -16,7 +16,6 @@ HR-tech · Competitive Programming · AI Search · Sales Tech · Smart Home IoT 
 - 🕷️ Web-scale web crawling & observability
 - 🤖 AI search infrastructure
 - 🧩 Portable agent skills for Cursor, Claude Code & Cowork
-- 🌱 Long-time open-source contributor — [GSoC 2011](https://summerofcode.withgoogle.com/) (Sahana Eden)
 
 ## 🔧 Tech I work with
 
