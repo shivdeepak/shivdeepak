@@ -13,9 +13,9 @@ AI Search · Agent Skills · MCP Tooling · LLM Knowledge Bases · Developer Too
 
 ## 🔭 What I'm into right now
 
-- 🕷️ Web-scale web crawling & observability
 - 🤖 AI search infrastructure
 - 🧩 Portable agent skills for Cursor, Claude Code & Cowork
+- ⚙️ Agentic engineering
 
 ## 🔧 Tech I work with
 
@@ -37,18 +37,16 @@ Fluent across many stacks — but Python is home base.
   better
 - [**mcp-sniffer**](https://github.com/shivdeepak/mcp-sniffer) — Wireshark for MCP server development
 - [**hey**](https://github.com/shivdeepak/hey) — low-bandwidth command line AI chatbot
-- [**aeroh-link**](https://github.com/aerohstudios/aeroh-link) — hackable IR remote controllable via Alexa, Siri, Google
-  Assistant & IFTTT
 - [**Design System Generator**](https://www.figma.com/community/plugin/1344368111040867237/design-system-generator) —
   Figma plugin that generates color systems & button components
 
 ## ✍️ Writing
 
+- [How Inspiration Works](https://shivdeepak.com/posts/how-inspiration-works/)
+- [My Purpose](https://shivdeepak.com/posts/purpose/)
+- [My Communication Style](https://shivdeepak.com/posts/my-communication-style/)
 - [Remote MCP Servers are the real deal!](https://shivdeepak.com/posts/remote-mcp-servers-are-the-real-deal/)
 - [Python Development on Cursor](https://shivdeepak.com/posts/python-dev-on-cursor/)
-- [My Purpose](https://shivdeepak.com/posts/purpose/) · [How Inspiration
-  Works](https://shivdeepak.com/posts/how-inspiration-works/) · [My Communication
-  Style](https://shivdeepak.com/posts/my-communication-style/)
 
 More on [shivdeepak.com](https://shivdeepak.com/).
 
