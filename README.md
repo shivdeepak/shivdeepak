@@ -1,14 +1,14 @@
 # Hi, I'm Shiv 👋
 
-Staff Software Engineer at **[You.com](https://you.com/home)**, building **web-scale web crawling infrastructure** to
-push the boundaries of AI search.
+> **My purpose: to inspire people to create technology with joy and wonder.**
 
-Software engineer with 15+ years shipping zero-to-one products at startups — **employee #1 at
-[HackerRank](https://hackerrank.com/)** and **co-founder of Touch AI** (Techstars NYC'23). On a purpose to inspire
-people to create technology with joy and wonder.
+I'm a Staff Software Engineer at **[You.com](https://you.com/home)**, working on AI search infrastructure. Over the past
+15+ years I've shipped zero-to-one products at startups — including as **employee #1 at
+[HackerRank](https://hackerrank.com/)** — and I've been an open-source contributor since my **Google Summer of Code
+2011** project with the **[Sahana Software Foundation](https://sahanafoundation.org/)**.
 
 ```text
-AI Search · Agent Skills · MCP Tooling · LLM Knowledge Bases · Developer Tooling · Web Crawling
+AI Search · Agent Skills · MCP Tooling · LLM Knowledge Bases · Developer Tooling
 ```
 
 ## 🔭 What I'm into right now
