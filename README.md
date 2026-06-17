@@ -28,9 +28,8 @@ Fluent across many stacks — but Python is home base.
 
 ## 🚀 Projects
 
-- [**skillship**](https://github.com/shivdeepak/skillship) — build & ship portable agent skills across Cursor, Claude
-  Code, and Cowork
-- [**speakeasy**](https://github.com/shivdeepak/speakeasy) — skill that coaches spoken English on every turn
+- [**runbook**](https://github.com/shivdeepak/runbook) — skill that helps create and execute markdown runbooks
+- [**skillship**](https://github.com/shivdeepak/skillship) — package your SKILL.md into a portable agent skill
 - [**knowledge-base-builder**](https://github.com/shivdeepak/knowledge-base-builder) — turn any notes folder into an
   LLM-navigable knowledge base
 - [**self-documenting**](https://github.com/shivdeepak/self-documenting) — self-updating docs that help agents code
